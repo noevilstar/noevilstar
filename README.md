@@ -41,5 +41,6 @@ Founded by **Adam Quane**. Working out of Colorado.
 
 ## Contact
 
-- 🌐 [no-evil-llc.up.railway.app](https://no-evil-llc.up.railway.app) — studio site (custom domain swap pending)
+<!-- TODO: swap to www.noevilstar.com once the proxy domain lands -->
+- 🌐 [www.adamquane.com](https://www.adamquane.com) — studio site
 - ✉️ [adamquane@yahoo.com](mailto:adamquane@yahoo.com)
