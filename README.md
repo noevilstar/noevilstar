@@ -1,46 +1,51 @@
-# No Evil Star, LLC
+# Adam Quane / No Evil Star, LLC
 
-> *Small studio shipping games, tools, and field experiments.*
+Software developer and data engineer building private operating tools, public-facing products, games, research systems, and AI-assisted workflows from Colorado.
 
-Founded by **Adam Quane**. Working out of Colorado.
+[![Portfolio](https://img.shields.io/badge/Portfolio-adamquane.com-4fc3f7?style=flat-square)](https://www.adamquane.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Quane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamquane/)
+[![Email](https://img.shields.io/badge/Email-adamquane%40yahoo.com-72f2a7?style=flat-square)](mailto:adamquane@yahoo.com)
 
-## What we ship
+## Developer Profile
 
-- **[City Seekers](https://cityseekers.app)** — real-world AR scavenger hunts you play from your browser. Walk to real places, solve clues, follow the AR compass.
-- **[Echoes of the Mesa](https://strangelove-nakamoto.itch.io/echoes-of-the-mesa)** — story-driven pixel-art RPG about time, belonging, and a hiker pulled into the Puebloan world of Mesa Verde.
-- **[MDMC](https://memedmc.up.railway.app)** — autonomous crypto-trading personas (Walter, Skylar, Jesse, Gus) running on real signals with separate desks and risk profiles.
-- **Treasure Among Us** — collaborative research vault and community for real-world treasure hunts: poems, theories, sources, maps, and solve work.
-- **Budgy** — private budget tracker for studio project spend, vendors, and recurring costs.
+I build practical software around real operating needs: data models, ETL-style ingestion, server-rendered workflows, payment-backed products, admin tools, maps, games, and AI generation loops.
 
-## Currently shipping
+The public portfolio at [adamquane.com](https://www.adamquane.com) is the best index of the work. Many repositories are private, so the portfolio focuses on product shape, role, architecture, and safe public-facing context rather than exposing internal repo contents.
 
-- 🚀 **City Seekers** is live and serving paid hunts across Denver, Boulder, Boston, Philadelphia, and more
-- 🎮 **Echoes of the Mesa** is in active dev — itch.io page up, launch pending
-- 🤖 **MDMC** runs live trading desks daily with public dashboards per persona
+## Current Lanes
 
-## Latest activity per project
+- **Software engineering:** FastAPI, Flask, Jinja2, SQLAlchemy, Alembic, pytest, Ruff, mypy, Railway, GitHub Actions.
+- **Data engineering:** PostgreSQL, SQL Server, SQLite, source-shaped models, ingestion scripts, reporting workflows, API-backed datasets.
+- **AI workflows:** prompt systems, persona orchestration, image/video generation loops, content review flows, OpenAI and Replicate integrations.
+- **UI/product work:** server-rendered dashboards, responsive interfaces, lightweight JavaScript, React surfaces, mobile browser products.
+- **Integrations:** Stripe, geolocation, hosted databases, vendor APIs, market data, sports data, deployment pipelines.
 
-![city-seekers commits](https://img.shields.io/github/last-commit/noevilstar/city-seekers?label=city-seekers&color=4fc3f7&style=flat-square)
-![echoes-of-the-mesa commits](https://img.shields.io/github/last-commit/noevilstar/echoes-of-the-mesa?label=echoes-of-the-mesa&color=72f2a7&style=flat-square)
-![bad-index commits](https://img.shields.io/github/last-commit/noevilstar/bad-index?label=MDMC&color=b06cff&style=flat-square)
-![treasure-among-us commits](https://img.shields.io/github/last-commit/noevilstar/treasure-among-us?label=treasure-among-us&color=ffd166&style=flat-square)
-![lovie-budget commits](https://img.shields.io/github/last-commit/noevilstar/lovie-budget?label=budgy&color=ff5f8f&style=flat-square)
+## Selected Work
 
-## Stack we reach for
+- **[City Seekers](https://www.adamquane.com/projects/city-seekers)** ([live app](https://cityseekers.app)) - location-based mobile scavenger hunts where city walks become clue-driven browser adventures.
+- **[Echoes of the Mesa](https://www.adamquane.com/projects/echoes-of-the-mesa)** - mobile and desktop RPG about time, belonging, balance, and a hiker pulled into the Puebloan world of Mesa Verde.
+- **[Treasure Among Us](https://www.adamquane.com/projects/treasure-among-us)** - structured research vault and web app for real-world treasure hunts, theories, sources, subscriptions, and solve work.
+- **[MemeDMC](https://www.adamquane.com/projects/mdmc)** - crypto-trading personality engine where market signals become trades, posts, dashboards, and AI-generated media.
+- **[Ball Hogs](https://www.adamquane.com/projects/ball-hogs)** - NBA and NFL sports data foundation for fantasy applications, analysis workflows, and database-first product experiments.
+- **[Budgy](https://www.adamquane.com/projects/budgie)** - private budget tracking and invoicing software for project expenses, vendors, recurring costs, and studio finance.
 
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+## Stack Signals
 
-## GitHub stats
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-![Adam Quane's GitHub stats](https://github-readme-stats.vercel.app/api?username=noevilstar&show_icons=true&theme=dark&hide_border=true&bg_color=0b1020&title_color=4fc3f7&icon_color=72f2a7&text_color=e0e6f0)
+## Public Home
 
-## Contact
-
-<!-- TODO: swap to www.noevilstar.com once the proxy domain lands -->
-- 🌐 [www.adamquane.com](https://www.adamquane.com) — studio site
-- ✉️ [adamquane@yahoo.com](mailto:adamquane@yahoo.com)
+- Portfolio: [www.adamquane.com](https://www.adamquane.com)
+- LinkedIn: [linkedin.com/in/adamquane](https://www.linkedin.com/in/adamquane/)
+- Email: [adamquane@yahoo.com](mailto:adamquane@yahoo.com)
