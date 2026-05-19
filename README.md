@@ -32,9 +32,16 @@ No Evil Star ships compact, useful software across sports data, browser games, r
 | Area | Current Work | Shape |
 | --- | --- | --- |
 | 🏀 Sports data | NBA, NFL, and MLB data pipelines with fast browse/analysis tools | ETL, Flask, PostgreSQL |
+| 🗂️ Professional data engineering | Data lakes, file-transfer automation, metadata, and operational tooling | Enterprise data systems |
 | 🧭 Location games | Browser-based hunts and AR-guided field play | Web apps, maps, payments |
 | 🎮 Narrative games | Story-rich pixel-art experiments | Itch.io, game writing, systems |
 | 🛠️ Studio tooling | Budgeting, research vaults, and AI-assisted workflows | Private ops apps |
+
+---
+
+## Professional Background
+
+Alongside the studio work, I operate in a more traditional data-engineering lane: building data lakes, proprietary file-transfer systems, automation tooling, metadata-driven workflows, and practical file systems for enterprise data movement. More conventional resume context lives on [LinkedIn](https://www.linkedin.com/in/adamquane).
 
 ---
 
@@ -42,10 +49,10 @@ No Evil Star ships compact, useful software across sports data, browser games, r
 
 | Project | What it does | Links |
 | --- | --- | --- |
-| **Ball Hogs** | Multi-sport data app for fantasy research, stat browsing, ETL, dashboards, and public API work. | [Repo](https://github.com/noevilstar/ball-hogs) |
+| **Ball Hogs** | Multi-sport data app for fantasy research, stat browsing, ETL, dashboards, and public API work. | [Repo, private](https://github.com/noevilstar/ball-hogs) |
 | **City Seekers** | Real-world browser scavenger hunts with location clues and AR-style navigation. | [Live](https://cityseekers.app) · [Repo, private](https://github.com/noevilstar/city-seekers) |
 | **Echoes of the Mesa** | Story-driven pixel-art RPG about time, belonging, and Mesa Verde. | [Itch.io](https://strangelove-nakamoto.itch.io/echoes-of-the-mesa) · [Repo, private](https://github.com/noevilstar/echoes-of-the-mesa) |
-| **MDMC** | Autonomous crypto-trading personas running on real signals with public dashboards. | [Live](https://memedmc.up.railway.app) · [Repo, private](https://github.com/noevilstar/bad-index) |
+| **Breaking Bags** | Autonomous trading-persona experiment being rebuilt around sharper dashboards, signals, and product framing. | [Legacy dashboard](https://memedmc.up.railway.app) · [Repo, private](https://github.com/noevilstar/bad-index) |
 
 ---
 
@@ -53,10 +60,10 @@ No Evil Star ships compact, useful software across sports data, browser games, r
 
 | Focus | Status | Notes |
 | --- | --- | --- |
-| **Ball Hogs** | Active public repo | Sports ETL, Flask dashboards, API endpoints, testing, and Railway deploy flow. |
+| **Ball Hogs** | Private repo | Sports ETL, Flask dashboards, API endpoints, testing, and Railway deploy flow. |
 | **City Seekers** | Live product | Paid hunts across Denver, Boulder, Boston, Philadelphia, and more. |
 | **Echoes of the Mesa** | In development | Itch.io page is live while gameplay and launch polish continue. |
-| **MDMC** | Live experiment | Trading desks run daily with separate persona dashboards and risk profiles. |
+| **Breaking Bags** | Rebuild planned | Trading-persona experiment moving toward a new identity, cleaner dashboards, and tighter signal/risk design. |
 
 ---
 
@@ -105,7 +112,6 @@ No Evil Star ships compact, useful software across sports data, browser games, r
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=noevilstar&label=Profile%20views&color=0e75b6&style=flat" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/noevilstar?label=Followers&style=flat" />
-  <img alt="Ball Hogs stars" src="https://img.shields.io/github/stars/noevilstar/ball-hogs?label=Ball%20Hogs%20stars&style=flat" />
 </p>
 
 <p align="center">
@@ -126,9 +132,6 @@ No Evil Star ships compact, useful software across sports data, browser games, r
 ## Latest Activity
 
 <p align="center">
-  <a href="https://github.com/noevilstar/ball-hogs">
-    <img alt="Ball Hogs last commit" src="https://img.shields.io/github/last-commit/noevilstar/ball-hogs?label=ball-hogs&style=flat-square" />
-  </a>
   <a href="https://github.com/noevilstar/noevilstar">
     <img alt="Profile README last commit" src="https://img.shields.io/github/last-commit/noevilstar/noevilstar?label=profile-readme&style=flat-square" />
   </a>
@@ -139,7 +142,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
 </p>
 
 <p align="center">
-  <sub>Public activity cards show public repos only; private studio work is summarized above.</sub>
+  <sub>Public activity cards show public repos only; private project repos are summarized above.</sub>
 </p>
 
 ---
