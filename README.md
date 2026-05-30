@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/noevilstar">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-noevilstar-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/noevilstar/noevilstar">
+    <img alt="GitHub profile repo" src="https://img.shields.io/badge/GitHub-noevilstar%2Fnoevilstar-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.adamquane.com">
     <img alt="Website" src="https://img.shields.io/badge/Website-adamquane.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white" />
@@ -119,11 +119,6 @@ Alongside the studio work, I operate in a more traditional data-engineering lane
 </p>
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noevilstar&theme=github_dark" />
-  <img height="165" alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noevilstar&theme=github_dark" />
-</p>
-
-<p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=noevilstar&hide_border=true&theme=transparent" />
 </p>
 
@@ -151,7 +146,7 @@ Alongside the studio work, I operate in a more traditional data-engineering lane
 
 | Channel | Link |
 | --- | --- |
-| GitHub | [github.com/noevilstar](https://github.com/noevilstar) |
+| GitHub | [github.com/noevilstar/noevilstar](https://github.com/noevilstar/noevilstar) |
 | Website | [adamquane.com](https://www.adamquane.com) |
 | Email | [adamquane@yahoo.com](mailto:adamquane@yahoo.com) |
 | LinkedIn | [linkedin.com/in/adamquane](https://www.linkedin.com/in/adamquane) |
