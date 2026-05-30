@@ -1,0 +1,5 @@
+# Local agent instruction files; this public profile repo should expose README.md only.
+AGENTS.md
+CLAUDE.md
+agents.md
+claude.md
