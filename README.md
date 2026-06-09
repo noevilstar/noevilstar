@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Founded by <strong>Adam Quane</strong> in Colorado. Small studio, focused builds, practical systems.
+  Founded by <strong>Adam Quane</strong> in Colorado.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## What I Build
 
-No Evil Star ships compact, useful software across sports data, browser games, research workflows, and internal studio operations. The common thread: turn messy real-world information into tools people can actually use.
+No Evil Star ships compact, useful software across sports data, browser games, research workflows, and internal studio operations.
 
 | Area | Current Work | Shape |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
 
 ## Professional Background
 
-Alongside the studio work, I operate in a more traditional data-engineering lane: building data lakes, proprietary file-transfer systems, automation tooling, metadata-driven workflows, and practical file systems for enterprise data movement. More conventional resume context lives on [LinkedIn](https://www.linkedin.com/in/adamquane).
+Alongside the studio work, I operate in a more traditional data-engineering lane: building data lakes, proprietary file-transfer systems, automation tooling, metadata-driven workflows, and ETL for enterprise data movement. More conventional resume context lives on [LinkedIn](https://www.linkedin.com/in/adamquane).
 
 ---
 
@@ -53,19 +53,6 @@ Alongside the studio work, I operate in a more traditional data-engineering lane
 | **City Seekers** | Real-world browser scavenger hunts with location clues and AR-style navigation. | [Live](https://cityseekers.app) · [Repo, private](https://github.com/noevilstar/city-seekers) |
 | **Echoes of the Mesa** | Story-driven pixel-art RPG about time, belonging, and Mesa Verde. | [Itch.io](https://strangelove-nakamoto.itch.io/echoes-of-the-mesa) · [Repo, private](https://github.com/noevilstar/echoes-of-the-mesa) |
 | **Breaking Bags** | Autonomous trading-persona experiment being rebuilt around sharper dashboards, signals, and product framing. | [Legacy dashboard](https://memedmc.up.railway.app) · [Repo, private](https://github.com/noevilstar/bad-index) |
-
----
-
-## Currently Building
-
-| Focus | Status | Notes |
-| --- | --- | --- |
-| **Ball Hogs** | Private repo | Sports ETL, Flask dashboards, API endpoints, testing, and Railway deploy flow. |
-| **City Seekers** | Live product | Paid hunts across Denver, Boulder, Boston, Philadelphia, and more. |
-| **Echoes of the Mesa** | In development | Itch.io page is live while gameplay and launch polish continue. |
-| **Breaking Bags** | Rebuild planned | Trading-persona experiment moving toward a new identity, cleaner dashboards, and tighter signal/risk design. |
-
----
 
 ## Tech Stack
 
