@@ -1,24 +1,27 @@
+<!-- generated-by: no-evil-llc/scripts/render_profile_readme.py -->
+<!-- Edit portfolio.toml/data/projects.json in noevilstar/no-evil-llc, then rerun scripts/render_profile_readme.py. -->
+
 <h1 align="center">No Evil Star, LLC</h1>
 
 <p align="center">
-  <strong>Independent software studio building data-first products, playful location experiences, and AI-assisted operating tools.</strong>
+  <strong>Small studio shipping games, tools, and field experiments from Colorado.</strong>
 </p>
 
 <p align="center">
-  Founded by <strong>Adam Quane</strong> in Colorado.
+  Founded by <strong>Adam Quane</strong> in Colorado. Small studio, focused builds, practical systems.
 </p>
 
 <p align="center">
   <a href="https://github.com/noevilstar/noevilstar">
-    <img alt="GitHub profile repo" src="https://img.shields.io/badge/GitHub-noevilstar%2Fnoevilstar-181717?style=for-the-badge&logo=github" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-noevilstar%2Fnoevilstar-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.adamquane.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-adamquane.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white" />
+  <a href="https://noevilstar.studio">
+    <img alt="Website" src="https://img.shields.io/badge/Website-noevilstar.studio-0A66C2?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   <a href="mailto:adamquane@yahoo.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-adamquane%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/adamquane">
+  <a href="https://www.linkedin.com/in/adamquane/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Quane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -27,116 +30,133 @@
 
 ## What I Build
 
-No Evil Star ships compact, useful software across sports data, browser games, research workflows, and internal studio operations.
+No Evil Star ships compact, useful software across sports data, browser games, research workflows, and internal studio operations. The shared pattern is simple: turn messy real-world information into tools people can actually use.
 
 | Area | Current Work | Shape |
 | --- | --- | --- |
-| 🏀 Sports data | NBA, NFL, and MLB data pipelines with fast browse/analysis tools | ETL, Flask, PostgreSQL |
-| 🗂️ Professional data engineering | Data lakes, file-transfer automation, metadata, and operational tooling | Enterprise data systems |
-| 🧭 Location games | Browser-based hunts and AR-guided field play | Web apps, maps, payments |
-| 🎮 Narrative games | Story-rich pixel-art experiments | Itch.io, game writing, systems |
-| 🛠️ Studio tooling | Budgeting, research vaults, and AI-assisted workflows | Private ops apps |
-
----
-
-## Professional Background
-
-Alongside the studio work, I operate in a more traditional data-engineering lane: building data lakes, proprietary file-transfer systems, automation tooling, metadata-driven workflows, and ETL for enterprise data movement. More conventional resume context lives on [LinkedIn](https://www.linkedin.com/in/adamquane).
-
----
+| Sports data | NBA, NFL, and MLB data pipelines with browse and analysis tools | ETL, APIs, dashboards |
+| Location games | Browser-based hunts and field play | Web apps, maps, payments |
+| Narrative games | Story-rich pixel-art experiments | Game writing, systems, Itch.io |
+| Research workflows | Source-heavy vaults and subscription products | Content systems, forums, payments |
+| Studio tooling | Budgeting, release tracking, and AI-assisted operations | Private ops apps |
 
 ## Featured Projects
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **Ball Hogs** | Multi-sport data app for fantasy research, stat browsing, ETL, dashboards, and public API work. | [Repo, private](https://github.com/noevilstar/ball-hogs) |
-| **City Seekers** | Real-world browser scavenger hunts with location clues and AR-style navigation. | [Live](https://cityseekers.app) · [Repo, private](https://github.com/noevilstar/city-seekers) |
-| **Echoes of the Mesa** | Story-driven pixel-art RPG about time, belonging, and Mesa Verde. | [Itch.io](https://strangelove-nakamoto.itch.io/echoes-of-the-mesa) · [Repo, private](https://github.com/noevilstar/echoes-of-the-mesa) |
-| **Breaking Bags** | Autonomous trading-persona experiment being rebuilt around sharper dashboards, signals, and product framing. | [Legacy dashboard](https://memedmc.up.railway.app) · [Repo, private](https://github.com/noevilstar/bad-index) |
-
-## Tech Stack
-
 <table>
   <tr>
-    <td><strong>Backend & Data</strong></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/static/project-media/city-seekers/curiositters-collection.webp" width="112" alt="City Seekers preview" /></a></td>
     <td>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-      <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" />
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-      <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+      <strong><a href="https://noevilstar.studio/projects/city-seekers">City Seekers</a></strong><br />
+      <sub>Venture / Launching July 2026</sub><br />
+      Mobile city hunts that turn real walks into augmented reality browser adventures. It makes exploration feel playable while keeping routes grounded in safe public places.<br /><sub>Tech: Stripe, Geolocation API, Capacitor</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/city-seekers">Portfolio</a> / <a href="https://cityseekers.app">CitySeekers.app</a></sub>
     </td>
   </tr>
   <tr>
-    <td><strong>Product UI</strong></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/static/project-media/echoes/twilight-mesa.webp" width="112" alt="Echoes of the Mesa preview" /></a></td>
     <td>
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111111" />
-      <img alt="Jinja" src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white" />
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-      <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
+      <strong><a href="https://noevilstar.studio/projects/echoes-of-the-mesa">Echoes of the Mesa</a></strong><br />
+      <sub>Venture / Spring 2027</sub><br />
+      Story-driven RPG about a modern hiker pulled into Mesa Verde&#x27;s Puebloan world. It turns history, belonging, and choice into a structured playable journey.<br /><sub>Tech: Python, Pygame, Pygbag, Itch.io</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/echoes-of-the-mesa">Portfolio</a></sub>
     </td>
   </tr>
   <tr>
-    <td><strong>Shipping</strong></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/emblem-dark.png" width="112" alt="Treasure Among Us preview" /></a></td>
     <td>
-      <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" />
-      <img alt="Gunicorn" src="https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white" />
-      <img alt="Alembic" src="https://img.shields.io/badge/Alembic-59666C?logo=python&logoColor=white" />
-      <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" />
-      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+      <strong><a href="https://noevilstar.studio/projects/treasure-among-us">Treasure Among Us</a></strong><br />
+      <sub>Venture / Live</sub><br />
+      Inspired by Forrest Fenn, a research vault for aggregating information around armchair treasure hunts, theories, sources, maps, and subscriptions.<br /><sub>Tech: Flask, PostgreSQL, Stripe, Railway</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/treasure-among-us">Portfolio</a> / <a href="https://treasureamongus.com">TreasureAmongUs.com</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/static/project-media/breaking-bags/penguin-icon.webp" width="112" alt="Breaking Bags preview" /></a></td>
+    <td>
+      <strong><a href="https://noevilstar.studio/projects/breaking-bags">Breaking Bags</a></strong><br />
+      <sub>Fun project / Live (private)</sub><br />
+      Fictional trading desks turn market signals into trades, posts, and dispatches while strategy, voice, and risk control become tools, dashboards, and recursive algorithms.<br /><sub>Tech: Python, React, LunarCrush, Replicate</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/breaking-bags">Portfolio</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="128"><a href="https://noevilstar.studio/projects/ball-hogs"><img src="https://noevilstar.studio/static/project-media/ball-hogs/ball-hogs-cover.svg" width="112" alt="Ball Hogs preview" /></a></td>
+    <td>
+      <strong><a href="https://noevilstar.studio/projects/ball-hogs">Ball Hogs</a></strong><br />
+      <sub>Fun project / Work in progress</sub><br />
+      Sports data platform for pioneering analytical ideas and fantasy concepts around NFL and NBA gameplay. Trustworthy raw feeds make sharper downstream decisions possible.<br /><sub>Tech: Python, SQLAlchemy, MSSQL, ETL</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/ball-hogs">Portfolio</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/static/project-media/budgie/budgie-cover.svg" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
+    <td>
+      <strong><a href="https://noevilstar.studio/projects/budgie">Budgy - The Budget Buddy</a></strong><br />
+      <sub>Private ops / Live (private)</sub><br />
+      Budgy, the budget buddy, is a private finance cockpit for No Evil Star project spend, vendors, invoices, and recurring costs. It keeps creative experiments honest by showing what each idea costs to operate.<br /><sub>Tech: SQLAlchemy, Chart.js, Stripe, Railway</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/budgie">Portfolio</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/halloway-cover.svg" width="112" alt="Halloway preview" /></a></td>
+    <td>
+      <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
+      <sub>Private ops / Incubating</sub><br />
+      Incubating No Evil Star service scaffold wired for FastAPI, GitHub, claude-master inheritance, and Railway deployment.<br /><sub>Tech: FastAPI, Railway, Python, uv</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/halloway">Portfolio</a></sub>
     </td>
   </tr>
 </table>
 
----
+## Professional Background
 
-## GitHub Stats
+Alongside the studio work, I operate in a more traditional data-engineering lane. More conventional resume context lives on [LinkedIn](https://www.linkedin.com/in/adamquane).
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=noevilstar&label=Profile%20views&color=0e75b6&style=flat" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/noevilstar?label=Followers&style=flat" />
+| Role | Period | Focus |
+| --- | --- | --- |
+| Senior Manager, Eligibility and Accumulator Integrations | 2024-current | Senior Manager of Eligibility and Accumulator integrations at VytlOne, focused on integration engineering, partner data flow, and delivery management. |
+| Senior Data Engineer | 2021-2024 | Senior data engineering work for TPA Stream focused on ETL, reporting, invoicing, claims harvesting, and enrollment integrations. |
+| Manager, Data and Integration | 2015-2021 | Managed data and integration work at Alegeus, running partner integrations and helping build a claims data lake for a Fortune 500 client. |
+
+## Stack Signals
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-active-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-active-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-active-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-active-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-active-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-active-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img alt="Railway" src="https://img.shields.io/badge/Railway-active-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-active-20232A?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-active-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-active-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="Pygame" src="https://img.shields.io/badge/Pygame-active-2D8CFF?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Pygbag" src="https://img.shields.io/badge/Pygbag-active-59666C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Jinja2" src="https://img.shields.io/badge/Jinja2-active-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-active-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-active-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img alt="uv" src="https://img.shields.io/badge/uv-active-111111?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noevilstar&theme=github_dark" />
-</p>
+## Portfolio Sync
+
+Project status, release labels, and images in this README are generated from the same portfolio data that feeds the public site.
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=noevilstar&hide_border=true&theme=transparent" />
+  <a href="https://github.com/noevilstar/no-evil-llc"><img alt="Portfolio data last commit" src="https://img.shields.io/github/last-commit/noevilstar/no-evil-llc/master?label=portfolio-data&style=flat-square" /></a>
+  <a href="https://github.com/noevilstar/noevilstar"><img alt="Profile README last commit" src="https://img.shields.io/github/last-commit/noevilstar/noevilstar/master?label=profile-readme&style=flat-square" /></a>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/noevilstar?label=Followers&style=flat-square" />
 </p>
-
----
-
-## Latest Activity
-
-<p align="center">
-  <a href="https://github.com/noevilstar/noevilstar">
-    <img alt="Profile README last commit" src="https://img.shields.io/github/last-commit/noevilstar/noevilstar?label=profile-readme&style=flat-square" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=noevilstar&hide_border=true&area=true&custom_title=Public%20Contribution%20Activity" />
-</p>
-
-<p align="center">
-  <sub>Public activity cards show public repos only; private project repos are summarized above.</sub>
-</p>
-
----
 
 ## Contact
 
 | Channel | Link |
 | --- | --- |
 | GitHub | [github.com/noevilstar/noevilstar](https://github.com/noevilstar/noevilstar) |
-| Website | [adamquane.com](https://www.adamquane.com) |
+| Website | [noevilstar.studio](https://noevilstar.studio) |
 | Email | [adamquane@yahoo.com](mailto:adamquane@yahoo.com) |
-| LinkedIn | [linkedin.com/in/adamquane](https://www.linkedin.com/in/adamquane) |
+| LinkedIn | [linkedin.com/in/adamquane](https://www.linkedin.com/in/adamquane/) |
 
 <p align="center">
   <sub>Building games, data tools, and private operating systems under No Evil Star, LLC.</sub>
