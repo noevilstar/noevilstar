@@ -44,7 +44,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
 
 <table>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/static/project-media/city-seekers/curiositters-collection.webp" width="112" alt="City Seekers preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/static/project-media/city-seekers/feature-graphic-curiositters.png" width="112" alt="City Seekers preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/city-seekers">City Seekers</a></strong><br />
       <sub>Venture / Launching July 2026</sub><br />
@@ -53,7 +53,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/static/project-media/echoes/twilight-mesa.webp" width="112" alt="Echoes of the Mesa preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/static/project-media/echoes-of-the-mesa/web-hero-1920x600.png" width="112" alt="Echoes of the Mesa preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/echoes-of-the-mesa">Echoes of the Mesa</a></strong><br />
       <sub>Venture / Spring 2027</sub><br />
@@ -62,7 +62,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/emblem-dark.png" width="112" alt="Treasure Among Us preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/treasure-among-us-cover.svg" width="112" alt="Treasure Among Us preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/treasure-among-us">Treasure Among Us</a></strong><br />
       <sub>Venture / Live</sub><br />
@@ -71,7 +71,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/static/project-media/breaking-bags/penguin-icon.webp" width="112" alt="Breaking Bags preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/static/project-media/breaking-bags/hero.webp" width="112" alt="Breaking Bags preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/breaking-bags">Breaking Bags</a></strong><br />
       <sub>Fun project / Live (private)</sub><br />
@@ -89,7 +89,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/static/project-media/budgie/budgie-cover.svg" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/static/project-media/budgie/og-card.png" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/budgie">Budgy - The Budget Buddy</a></strong><br />
       <sub>Private ops / Live (private)</sub><br />
@@ -98,7 +98,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/halloway-cover.svg" width="112" alt="Halloway preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/og-social-card-1200x630.png" width="112" alt="Halloway preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
       <sub>Private ops / Incubating</sub><br />
