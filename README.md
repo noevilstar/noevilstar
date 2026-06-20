@@ -1,7 +1,7 @@
 <!-- generated-by: no-evil-llc/scripts/render_profile_readme.py -->
 <!-- Edit portfolio.toml/data/projects.json in noevilstar/no-evil-llc, then rerun scripts/render_profile_readme.py. -->
 
-<h1 align="center">No Evil Star, LLC</h1>
+<h1 align="center">No Evil Star Studios</h1>
 
 <p align="center">
   <strong>Small studio shipping games, tools, and field experiments from Colorado.</strong>
@@ -30,7 +30,7 @@
 
 ## What I Build
 
-No Evil Star ships compact, useful software across sports data, browser games, research workflows, and internal studio operations. The shared pattern is simple: turn messy real-world information into tools people can actually use.
+No Evil Star Studios ships compact, useful software across sports data, browser games, research workflows, and internal studio operations. The shared pattern is simple: turn messy real-world information into tools people can actually use.
 
 | Area | Current Work | Shape |
 | --- | --- | --- |
@@ -53,6 +53,15 @@ No Evil Star ships compact, useful software across sports data, browser games, r
     </td>
   </tr>
   <tr>
+    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/og-social-card-1200x630.png" width="112" alt="Halloway preview" /></a></td>
+    <td>
+      <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
+      <sub>Venture / Active</sub><br />
+      A phone-first riddle house with three wings, seventy-five locked doors, and a house that remembers every key.<br /><sub>Tech: FastAPI, Capacitor, StoreKit, Railway</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/halloway">Portfolio</a> / <a href="https://halloway.noevilstar.studio">Play Halloway</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/static/project-media/echoes-of-the-mesa/web-hero-1920x600.png" width="112" alt="Echoes of the Mesa preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/echoes-of-the-mesa">Echoes of the Mesa</a></strong><br />
@@ -62,7 +71,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/treasure-among-us-cover.svg" width="112" alt="Treasure Among Us preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/hero.webp" width="112" alt="Treasure Among Us preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/treasure-among-us">Treasure Among Us</a></strong><br />
       <sub>Venture / Live</sub><br />
@@ -80,7 +89,7 @@ No Evil Star ships compact, useful software across sports data, browser games, r
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/ball-hogs"><img src="https://noevilstar.studio/static/project-media/ball-hogs/ball-hogs-cover.svg" width="112" alt="Ball Hogs preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/ball-hogs"><img src="https://noevilstar.studio/static/project-media/ball-hogs/app-dashboard.webp" width="112" alt="Ball Hogs preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/ball-hogs">Ball Hogs</a></strong><br />
       <sub>Fun project / Work in progress</sub><br />
@@ -89,21 +98,12 @@ No Evil Star ships compact, useful software across sports data, browser games, r
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/static/project-media/budgie/og-card.png" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/static/project-media/budgie/budgy-icon.svg" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/budgie">Budgy - The Budget Buddy</a></strong><br />
       <sub>Private ops / Live (private)</sub><br />
-      Budgy, the budget buddy, is a private finance cockpit for No Evil Star project spend, vendors, invoices, and recurring costs. It keeps creative experiments honest by showing what each idea costs to operate.<br /><sub>Tech: SQLAlchemy, Chart.js, Stripe, Railway</sub><br />
+      Budgy, the budget buddy, is a private finance cockpit for No Evil Star Studios project spend, vendors, invoices, and recurring costs. It keeps creative experiments honest by showing what each idea costs to operate.<br /><sub>Tech: SQLAlchemy, Chart.js, Stripe, Railway</sub><br />
       <sub><a href="https://noevilstar.studio/projects/budgie">Portfolio</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/og-social-card-1200x630.png" width="112" alt="Halloway preview" /></a></td>
-    <td>
-      <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
-      <sub>Private ops / Incubating</sub><br />
-      Incubating No Evil Star service scaffold wired for FastAPI, GitHub, claude-master inheritance, and Railway deployment.<br /><sub>Tech: FastAPI, Railway, Python, uv</sub><br />
-      <sub><a href="https://noevilstar.studio/projects/halloway">Portfolio</a></sub>
     </td>
   </tr>
 </table>
@@ -159,5 +159,5 @@ Project status, release labels, and images in this README are generated from the
 | LinkedIn | [linkedin.com/in/adamquane](https://www.linkedin.com/in/adamquane/) |
 
 <p align="center">
-  <sub>Building games, data tools, and private operating systems under No Evil Star, LLC.</sub>
+  <sub>Building games, data tools, and private operating systems under No Evil Star Studios.</sub>
 </p>
