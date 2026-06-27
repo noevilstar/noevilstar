@@ -24,6 +24,9 @@
   <a href="https://www.linkedin.com/in/adamquane/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Quane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@noevilstar.studio">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%40noevilstar.studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -44,21 +47,21 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
 
 <table>
   <tr>
+    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/halloway-lantern-procession-wide-1500x500.png" width="112" alt="Halloway preview" /></a></td>
+    <td>
+      <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
+      <sub>Venture / Live on the App Store</sub><br />
+      A live iOS and web riddle house with three wings, seventy-five locked doors, and a house that remembers every key.<br /><sub>Tech: FastAPI, Capacitor, StoreKit, Railway</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/halloway">Portfolio</a> / <a href="https://halloway.noevilstar.studio">Play Halloway</a> / <a href="https://apps.apple.com/us/app/halloway/id6781112702?itscg=30200&amp;itsct=apps_box_badge&amp;mttnsubad=6781112702">Download on the App Store</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/static/project-media/city-seekers/feature-graphic-curiositters.png" width="112" alt="City Seekers preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/city-seekers">City Seekers</a></strong><br />
       <sub>Venture / Launching July 2026</sub><br />
       Mobile city hunts that turn real walks into augmented reality browser adventures. It makes exploration feel playable while keeping routes grounded in safe public places.<br /><sub>Tech: Stripe, Geolocation API, Capacitor</sub><br />
       <sub><a href="https://noevilstar.studio/projects/city-seekers">Portfolio</a> / <a href="https://cityseekers.app">CitySeekers.app</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/og-social-card-1200x630.png" width="112" alt="Halloway preview" /></a></td>
-    <td>
-      <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
-      <sub>Venture / Active</sub><br />
-      A phone-first riddle house with three wings, seventy-five locked doors, and a house that remembers every key.<br /><sub>Tech: FastAPI, Capacitor, StoreKit, Railway</sub><br />
-      <sub><a href="https://noevilstar.studio/projects/halloway">Portfolio</a> / <a href="https://halloway.noevilstar.studio">Play Halloway</a></sub>
     </td>
   </tr>
   <tr>
@@ -71,7 +74,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/hero.webp" width="112" alt="Treasure Among Us preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/treasure-among-us-cover.svg" width="112" alt="Treasure Among Us preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/treasure-among-us">Treasure Among Us</a></strong><br />
       <sub>Venture / Live</sub><br />
@@ -89,7 +92,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/ball-hogs"><img src="https://noevilstar.studio/static/project-media/ball-hogs/app-dashboard.webp" width="112" alt="Ball Hogs preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/ball-hogs"><img src="https://noevilstar.studio/static/project-media/ball-hogs/ball-hogs-cover.svg" width="112" alt="Ball Hogs preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/ball-hogs">Ball Hogs</a></strong><br />
       <sub>Fun project / Work in progress</sub><br />
@@ -98,7 +101,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/static/project-media/budgie/budgy-icon.svg" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/static/project-media/budgie/og-card.png" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/budgie">Budgy - The Budget Buddy</a></strong><br />
       <sub>Private ops / Live (private)</sub><br />
@@ -157,6 +160,7 @@ Project status, release labels, and images in this README are generated from the
 | Website | [noevilstar.studio](https://noevilstar.studio) |
 | Email | [adamquane@yahoo.com](mailto:adamquane@yahoo.com) |
 | LinkedIn | [linkedin.com/in/adamquane](https://www.linkedin.com/in/adamquane/) |
+| YouTube | [@noevilstar.studio](https://www.youtube.com/@noevilstar.studio) |
 
 <p align="center">
   <sub>Building games, data tools, and private operating systems under No Evil Star Studios.</sub>
