@@ -47,7 +47,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
 
 <table>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/halloway-lantern-procession-wide-1500x500.png" width="112" alt="Halloway preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/project-media/halloway/halloway-lantern-procession-wide-1500x500.png" width="112" alt="Halloway preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
       <sub>Venture / Live on the App Store</sub><br />
@@ -56,7 +56,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/static/project-media/city-seekers/feature-graphic-curiositters.png" width="112" alt="City Seekers preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/project-media/city-seekers/feature-graphic-curiositters.png" width="112" alt="City Seekers preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/city-seekers">City Seekers</a></strong><br />
       <sub>Venture / Launching July 2026</sub><br />
@@ -65,7 +65,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/static/project-media/echoes-of-the-mesa/web-hero-1920x600.png" width="112" alt="Echoes of the Mesa preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/project-media/echoes-of-the-mesa/web-hero-1920x600.png" width="112" alt="Echoes of the Mesa preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/echoes-of-the-mesa">Echoes of the Mesa</a></strong><br />
       <sub>Venture / Spring 2027</sub><br />
@@ -74,7 +74,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/treasure-among-us-cover.svg" width="112" alt="Treasure Among Us preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/project-media/treasure-among-us/social-card-1200x630.png" width="112" alt="Treasure Among Us preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/treasure-among-us">Treasure Among Us</a></strong><br />
       <sub>Venture / Live</sub><br />
@@ -83,7 +83,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/static/project-media/breaking-bags/hero.webp" width="112" alt="Breaking Bags preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/project-media/breaking-bags/homepage-hero.webp" width="112" alt="Breaking Bags preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/breaking-bags">Breaking Bags</a></strong><br />
       <sub>Fun project / Live (private)</sub><br />
@@ -92,7 +92,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/ball-hogs"><img src="https://noevilstar.studio/static/project-media/ball-hogs/ball-hogs-cover.svg" width="112" alt="Ball Hogs preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/ball-hogs"><img src="https://noevilstar.studio/project-media/ball-hogs/ball-hogs-hero.png" width="112" alt="Ball Hogs preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/ball-hogs">Ball Hogs</a></strong><br />
       <sub>Fun project / Work in progress</sub><br />
@@ -101,7 +101,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/static/project-media/budgie/og-card.png" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/project-media/budgie/og-card.png" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/budgie">Budgy - The Budget Buddy</a></strong><br />
       <sub>Private ops / Live (private)</sub><br />
