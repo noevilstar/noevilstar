@@ -50,8 +50,8 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/project-media/halloway/halloway-lantern-procession-wide-1500x500.png" width="112" alt="Halloway preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
-      <sub>Venture / Live on the App Store</sub><br />
-      A live iOS and web riddle house with three wings, seventy-five locked doors, and a house that remembers every key.<br /><sub>Tech: FastAPI, Capacitor, StoreKit, Railway</sub><br />
+      <sub>Venture / Live on the App Store and Google Play</sub><br />
+      A live iOS, Android, and web riddle house with three wings, seventy-five locked doors, and a companion service for accounts, sync, entitlements, and launch operations.<br /><sub>Tech: FastAPI, Capacitor, StoreKit, Google Play Billing</sub><br />
       <sub><a href="https://noevilstar.studio/projects/halloway">Portfolio</a> / <a href="https://halloway.noevilstar.studio">Play Halloway</a> / <a href="https://apps.apple.com/us/app/halloway/id6781112702?itscg=30200&amp;itsct=apps_box_badge&amp;mttnsubad=6781112702">Download on the App Store</a></sub>
     </td>
   </tr>
@@ -59,9 +59,9 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/project-media/city-seekers/feature-graphic-curiositters.png" width="112" alt="City Seekers preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/city-seekers">City Seekers</a></strong><br />
-      <sub>Venture / Launching July 2026</sub><br />
-      Mobile city hunts that turn real walks into augmented reality browser adventures. It makes exploration feel playable while keeping routes grounded in safe public places.<br /><sub>Tech: Stripe, Geolocation API, Capacitor</sub><br />
-      <sub><a href="https://noevilstar.studio/projects/city-seekers">Portfolio</a> / <a href="https://cityseekers.app">CitySeekers.app</a></sub>
+      <sub>Venture / Live on the App Store and Google Play</sub><br />
+      A live iOS and Android AR scavenger-hunt game that turns real walks into clue-led city adventures grounded in safe public places.<br /><sub>Tech: FastAPI, Capacitor, StoreKit, Google Play Billing</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/city-seekers">Portfolio</a> / <a href="https://cityseekers.app">CitySeekers.app</a> / <a href="https://apps.apple.com/us/app/city-seekers/id6766160086?itscg=30200&amp;itsct=apps_box_badge&amp;mttnsubad=6766160086">Download on the App Store</a></sub>
     </td>
   </tr>
   <tr>
