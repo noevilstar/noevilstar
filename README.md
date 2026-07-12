@@ -18,8 +18,8 @@
   <a href="https://noevilstar.studio">
     <img alt="Website" src="https://img.shields.io/badge/Website-noevilstar.studio-0A66C2?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
-  <a href="mailto:adamquane@yahoo.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-adamquane%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:adam@noevilstar.studio">
+    <img alt="Email" src="https://img.shields.io/badge/Email-adam%40noevilstar.studio-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adamquane/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Quane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,7 +47,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
 
 <table>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/project-media/halloway/halloway-lantern-procession-wide-1500x500.png" width="112" alt="Halloway preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/project-media/halloway/halloway-lantern-procession-wide-1500x500.webp" width="112" alt="Halloway preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
       <sub>Venture / Live on the App Store and Google Play</sub><br />
@@ -56,7 +56,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/project-media/city-seekers/feature-graphic-curiositters.png" width="112" alt="City Seekers preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/project-media/city-seekers/feature-graphic-curiositters.webp" width="112" alt="City Seekers preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/city-seekers">City Seekers</a></strong><br />
       <sub>Venture / Live on the App Store and Google Play</sub><br />
@@ -65,7 +65,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/project-media/echoes-of-the-mesa/web-hero-1920x600.png" width="112" alt="Echoes of the Mesa preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/project-media/echoes-of-the-mesa/web-hero-1920x600.webp" width="112" alt="Echoes of the Mesa preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/echoes-of-the-mesa">Echoes of the Mesa</a></strong><br />
       <sub>Venture / Spring 2027</sub><br />
@@ -74,7 +74,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/project-media/treasure-among-us/social-card-1200x630.png" width="112" alt="Treasure Among Us preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/project-media/treasure-among-us/social-card-1200x630.webp" width="112" alt="Treasure Among Us preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/treasure-among-us">Treasure Among Us</a></strong><br />
       <sub>Venture / Live</sub><br />
@@ -89,24 +89,6 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
       <sub>Fun project / Live (private)</sub><br />
       Fictional trading desks turn market signals into trades, posts, and dispatches while strategy, voice, and risk control become tools, dashboards, and recursive algorithms.<br /><sub>Tech: Python, React, LunarCrush, Replicate</sub><br />
       <sub><a href="https://noevilstar.studio/projects/breaking-bags">Portfolio</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/ball-hogs"><img src="https://noevilstar.studio/project-media/ball-hogs/ball-hogs-hero.png" width="112" alt="Ball Hogs preview" /></a></td>
-    <td>
-      <strong><a href="https://noevilstar.studio/projects/ball-hogs">Ball Hogs</a></strong><br />
-      <sub>Fun project / Work in progress</sub><br />
-      Sports data platform for pioneering analytical ideas and fantasy concepts around NFL and NBA gameplay. Trustworthy raw feeds make sharper downstream decisions possible.<br /><sub>Tech: Python, SQLAlchemy, MSSQL, ETL</sub><br />
-      <sub><a href="https://noevilstar.studio/projects/ball-hogs">Portfolio</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/budgie"><img src="https://noevilstar.studio/project-media/budgie/og-card.png" width="112" alt="Budgy - The Budget Buddy preview" /></a></td>
-    <td>
-      <strong><a href="https://noevilstar.studio/projects/budgie">Budgy - The Budget Buddy</a></strong><br />
-      <sub>Private ops / Live (private)</sub><br />
-      Budgy, the budget buddy, is a private finance cockpit for No Evil Star Studios project spend, vendors, invoices, and recurring costs. It keeps creative experiments honest by showing what each idea costs to operate.<br /><sub>Tech: SQLAlchemy, Chart.js, Stripe, Railway</sub><br />
-      <sub><a href="https://noevilstar.studio/projects/budgie">Portfolio</a></sub>
     </td>
   </tr>
 </table>
@@ -158,7 +140,7 @@ Project status, release labels, and images in this README are generated from the
 | --- | --- |
 | GitHub | [github.com/noevilstar/noevilstar](https://github.com/noevilstar/noevilstar) |
 | Website | [noevilstar.studio](https://noevilstar.studio) |
-| Email | [adamquane@yahoo.com](mailto:adamquane@yahoo.com) |
+| Email | [adam@noevilstar.studio](mailto:adam@noevilstar.studio) |
 | LinkedIn | [linkedin.com/in/adamquane](https://www.linkedin.com/in/adamquane/) |
 | YouTube | [@noevilstar.studio](https://www.youtube.com/@noevilstar.studio) |
 
