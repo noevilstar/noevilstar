@@ -4,7 +4,7 @@
 <h1 align="center">No Evil Star Studios</h1>
 
 <p align="center">
-  <strong>Small studio shipping games, tools, and field experiments from Colorado.</strong>
+  <strong>Riddles, scavenger hunts, story worlds, and playful experiments from Colorado.</strong>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     <td>
       <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
       <sub>Venture / Live on the App Store and Google Play</sub><br />
-      A live iOS, Android, and web riddle house with three wings, seventy-five locked doors, and a companion service for accounts, sync, entitlements, and launch operations.<br /><sub>Tech: FastAPI, Capacitor, StoreKit, Google Play Billing</sub><br />
+      A live riddle house for iOS, Android, and web: three eerie wings, seventy-five locked doors, and one-word answers hiding behind every room.<br /><sub>Tech: FastAPI, Capacitor, StoreKit, Google Play Billing</sub><br />
       <sub><a href="https://noevilstar.studio/projects/halloway">Portfolio</a> / <a href="https://halloway.noevilstar.studio">Play Halloway</a> / <a href="https://apps.apple.com/us/app/halloway/id6781112702?itscg=30200&amp;itsct=apps_box_badge&amp;mttnsubad=6781112702">Download on the App Store</a></sub>
     </td>
   </tr>
@@ -78,7 +78,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     <td>
       <strong><a href="https://noevilstar.studio/projects/treasure-among-us">Treasure Among Us</a></strong><br />
       <sub>Venture / Live</sub><br />
-      Inspired by Forrest Fenn, a research vault for aggregating information around armchair treasure hunts, theories, sources, maps, and subscriptions.<br /><sub>Tech: Flask, PostgreSQL, Stripe, Railway</sub><br />
+      A field notebook and theory vault for armchair treasure hunters chasing poems, maps, sources, places, and very long rabbit holes.<br /><sub>Tech: Flask, PostgreSQL, Stripe, Railway</sub><br />
       <sub><a href="https://noevilstar.studio/projects/treasure-among-us">Portfolio</a> / <a href="https://treasureamongus.com">TreasureAmongUs.com</a></sub>
     </td>
   </tr>
@@ -87,7 +87,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     <td>
       <strong><a href="https://noevilstar.studio/projects/breaking-bags">Breaking Bags</a></strong><br />
       <sub>Fun project / Live (private)</sub><br />
-      Fictional trading desks turn market signals into trades, posts, and dispatches while strategy, voice, and risk control become tools, dashboards, and recursive algorithms.<br /><sub>Tech: Python, React, LunarCrush, Replicate</sub><br />
+      Four fictional crypto traders turn market signals into rival strategies, risky calls, generated dispatches, and a very noisy character-driven scoreboard.<br /><sub>Tech: Python, React, LunarCrush, Replicate</sub><br />
       <sub><a href="https://noevilstar.studio/projects/breaking-bags">Portfolio</a></sub>
     </td>
   </tr>
