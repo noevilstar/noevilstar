@@ -56,6 +56,15 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
+    <td width="128"><a href="https://noevilstar.studio/projects/thamyris"><img src="https://noevilstar.studio/static/project-media/thamyris/thamyris-sunlit-apparition-banner-master-2048x768.webp" width="112" alt="Thamyris preview" /></a></td>
+    <td>
+      <strong><a href="https://noevilstar.studio/projects/thamyris">Thamyris</a></strong><br />
+      <sub>Venture / In development</sub><br />
+      A mythic, painterly journey about a wandering musician, a broken lyre, and the worlds below a cave.<br /><sub>Tech: Godot, GDScript, FastAPI, PostgreSQL</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/thamyris">Portfolio</a> / <a href="https://thamyris.noevilstar.studio/">Visit Thamyris</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/project-media/city-seekers/feature-graphic-curiositters.webp" width="112" alt="City Seekers preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/city-seekers">City Seekers</a></strong><br />
