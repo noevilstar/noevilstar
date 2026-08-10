@@ -4,7 +4,7 @@
 <h1 align="center">No Evil Star Studios</h1>
 
 <p align="center">
-  <strong>Riddles, scavenger hunts, story worlds, and playful experiments from Colorado.</strong>
+  <strong>A one-person game studio in Colorado.</strong>
 </p>
 
 <p align="center">
