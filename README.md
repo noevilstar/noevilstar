@@ -4,11 +4,11 @@
 <h1 align="center">No Evil Star Studios</h1>
 
 <p align="center">
-  <strong>A one-person game studio in Colorado.</strong>
+  <strong>A one-person creative laboratory for games, private tools, and software experiments.</strong>
 </p>
 
 <p align="center">
-  Founded by <strong>Adam Quane</strong> in Colorado. Small studio, focused builds, practical systems.
+  Founded by <strong>Adam Quane</strong> in Colorado. Data engineer by trade, musician by training, independent builder by practice.
 </p>
 
 <p align="center">
@@ -33,21 +33,20 @@
 
 ## What I Build
 
-No Evil Star Studios ships compact, useful software across sports data, browser games, research workflows, and internal studio operations. The shared pattern is simple: turn messy real-world information into tools people can actually use.
+No Evil Star Studios is a one-person creative laboratory for mobile games, private business software, research workflows, and playful experiments. The projects share a practical data-engineering backbone, but they begin with curiosity rather than a valuation target.
 
 | Area | Current Work | Shape |
 | --- | --- | --- |
-| Sports data | NBA, NFL, and MLB data pipelines with browse and analysis tools | ETL, APIs, dashboards |
-| Location games | Browser-based hunts and field play | Web apps, maps, payments |
-| Narrative games | Story-rich pixel-art experiments | Game writing, systems, Itch.io |
+| Mobile games | Riddles, city hunts, and story worlds | iOS, Android, web, Godot |
+| Private finance | Studio budgeting and personal wealth | Plaid, Coinbase, reports |
 | Research workflows | Source-heavy vaults and subscription products | Content systems, forums, payments |
-| Studio tooling | Budgeting, release tracking, and AI-assisted operations | Private ops apps |
+| Integrations | Payments, hosting, cloud cost, monitoring, and AI services | APIs, ETL, reviewable automation |
 
 ## Featured Projects
 
 <table>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/project-media/halloway/halloway-lantern-procession-wide-1500x500.webp" width="112" alt="Halloway preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/halloway-lantern-procession-wide-1500x500.webp" width="112" alt="Halloway preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
       <sub>Venture / Live on the App Store and Google Play</sub><br />
@@ -65,7 +64,16 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/project-media/city-seekers/feature-graphic-curiositters.webp" width="112" alt="City Seekers preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/fushigi-tallowgate"><img src="https://noevilstar.studio/static/project-media/fushigi-tallowgate/fushigi-tallowgate-hero.webp" width="112" alt="The Fushigi Bureau: Tallowgate preview" /></a></td>
+    <td>
+      <strong><a href="https://noevilstar.studio/projects/fushigi-tallowgate">The Fushigi Bureau: Tallowgate</a></strong><br />
+      <sub>Venture / Work in progress</sub><br />
+      A phone-first, first-person detective casebook built around evidence, suspects, and working theories across the city of Tallowgate.<br /><sub>Tech: FastAPI, Capacitor, Electron, PostgreSQL</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/fushigi-tallowgate">Portfolio</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/static/project-media/city-seekers/feature-graphic-curiositters.webp" width="112" alt="City Seekers preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/city-seekers">City Seekers</a></strong><br />
       <sub>Venture / Live on the App Store and Google Play</sub><br />
@@ -74,7 +82,7 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/project-media/echoes-of-the-mesa/web-hero-1920x600.webp" width="112" alt="Echoes of the Mesa preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/static/project-media/echoes-of-the-mesa/web-hero-1920x600.webp" width="112" alt="Echoes of the Mesa preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/echoes-of-the-mesa">Echoes of the Mesa</a></strong><br />
       <sub>Venture / Spring 2027</sub><br />
@@ -83,16 +91,25 @@ No Evil Star Studios ships compact, useful software across sports data, browser 
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/project-media/treasure-among-us/social-card-1200x630.webp" width="112" alt="Treasure Among Us preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/social-card-1200x630.webp" width="112" alt="Treasure Among Us preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/treasure-among-us">Treasure Among Us</a></strong><br />
-      <sub>Venture / Live</sub><br />
-      A field notebook and theory vault for armchair treasure hunters chasing poems, maps, sources, places, and very long rabbit holes.<br /><sub>Tech: Flask, PostgreSQL, Stripe, Railway</sub><br />
-      <sub><a href="https://noevilstar.studio/projects/treasure-among-us">Portfolio</a> / <a href="https://treasureamongus.com">TreasureAmongUs.com</a></sub>
+      <sub>Venture / Live on the web and App Store</sub><br />
+      A live web and iOS research vault for armchair treasure hunters chasing poems, maps, sources, places, and very long rabbit holes.<br /><sub>Tech: Flask, PostgreSQL, Capacitor, StoreKit</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/treasure-among-us">Portfolio</a> / <a href="https://treasureamongus.com">TreasureAmongUs.com</a> / <a href="https://apps.apple.com/us/app/treasure-among-us/id6786162098">Download on the App Store</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/project-media/breaking-bags/homepage-hero.webp" width="112" alt="Breaking Bags preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/budgy"><img src="https://noevilstar.studio/static/project-media/budgy/og-card.webp" width="112" alt="Budgy preview" /></a></td>
+    <td>
+      <strong><a href="https://noevilstar.studio/projects/budgy">Budgy</a></strong><br />
+      <sub>Private ops / Private · active</sub><br />
+      A private enterprise budget and wealth-management app for tracing studio spend, recurring costs, financial sources, and personal net worth in one protected system.<br /><sub>Tech: FastAPI, SQLAlchemy, PostgreSQL, HTMX</sub><br />
+      <sub><a href="https://noevilstar.studio/projects/budgy">Portfolio</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/static/project-media/breaking-bags/homepage-hero.webp" width="112" alt="Breaking Bags preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/breaking-bags">Breaking Bags</a></strong><br />
       <sub>Fun project / Live (private)</sub><br />
@@ -122,6 +139,14 @@ Alongside the studio work, I operate in a more traditional data-engineering lane
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-active-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-active-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img alt="Railway" src="https://img.shields.io/badge/Railway-active-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img alt="Plaid" src="https://img.shields.io/badge/Plaid-active-111111?style=for-the-badge&logo=plaid&logoColor=white" />
+  <img alt="Coinbase" src="https://img.shields.io/badge/Coinbase-active-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-active-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-active-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img alt="Sentry" src="https://img.shields.io/badge/Sentry-active-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-active-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img alt="HTMX" src="https://img.shields.io/badge/HTMX-active-3366CC?style=for-the-badge&logo=htmx&logoColor=white" />
+  <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-active-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-active-20232A?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-active-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-active-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -154,5 +179,5 @@ Project status, release labels, and images in this README are generated from the
 | YouTube | [@noevilstar.studio](https://www.youtube.com/@noevilstar.studio) |
 
 <p align="center">
-  <sub>Building games, data tools, and private operating systems under No Evil Star Studios.</sub>
+  <sub>Building games, private tools, and creative software experiments under No Evil Star Studios.</sub>
 </p>
