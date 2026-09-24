@@ -46,7 +46,7 @@ No Evil Star Studios is a one-person creative laboratory for mobile games, priva
 
 <table>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/project-media/halloway/halloway-lantern-procession-wide-1500x500.webp" width="112" alt="Halloway preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/halloway"><img src="https://noevilstar.studio/static/project-media/halloway/halloway-lantern-procession-wide-1500x500.webp" width="112" alt="Halloway preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/halloway">Halloway</a></strong><br />
       <sub>Venture / Live on the App Store and Google Play</sub><br />
@@ -73,7 +73,7 @@ No Evil Star Studios is a one-person creative laboratory for mobile games, priva
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/project-media/city-seekers/feature-graphic-curiositters.webp" width="112" alt="City Seekers preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/city-seekers"><img src="https://noevilstar.studio/static/project-media/city-seekers/feature-graphic-curiositters.webp" width="112" alt="City Seekers preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/city-seekers">City Seekers</a></strong><br />
       <sub>Venture / Live on the App Store and Google Play</sub><br />
@@ -82,7 +82,7 @@ No Evil Star Studios is a one-person creative laboratory for mobile games, priva
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/project-media/echoes-of-the-mesa/web-hero-1920x600.webp" width="112" alt="Echoes of the Mesa preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/echoes-of-the-mesa"><img src="https://noevilstar.studio/static/project-media/echoes-of-the-mesa/web-hero-1920x600.webp" width="112" alt="Echoes of the Mesa preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/echoes-of-the-mesa">Echoes of the Mesa</a></strong><br />
       <sub>Venture / Spring 2027</sub><br />
@@ -91,7 +91,7 @@ No Evil Star Studios is a one-person creative laboratory for mobile games, priva
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/project-media/treasure-among-us/social-card-1200x630.webp" width="112" alt="Treasure Among Us preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/treasure-among-us"><img src="https://noevilstar.studio/static/project-media/treasure-among-us/social-card-1200x630.webp" width="112" alt="Treasure Among Us preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/treasure-among-us">Treasure Among Us</a></strong><br />
       <sub>Venture / Live on the web and App Store</sub><br />
@@ -100,7 +100,7 @@ No Evil Star Studios is a one-person creative laboratory for mobile games, priva
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/budgy"><img src="https://noevilstar.studio/project-media/budgy/og-card.webp" width="112" alt="Budgy preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/budgy"><img src="https://noevilstar.studio/static/project-media/budgy/og-card.webp" width="112" alt="Budgy preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/budgy">Budgy</a></strong><br />
       <sub>Private ops / Private · active</sub><br />
@@ -109,7 +109,7 @@ No Evil Star Studios is a one-person creative laboratory for mobile games, priva
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/project-media/breaking-bags/homepage-hero.webp" width="112" alt="Breaking Bags preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/static/project-media/breaking-bags/homepage-hero.webp" width="112" alt="Breaking Bags preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/breaking-bags">Breaking Bags</a></strong><br />
       <sub>Fun project / Live (private)</sub><br />
