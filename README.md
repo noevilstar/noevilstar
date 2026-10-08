@@ -55,7 +55,7 @@ No Evil Star Studios is a one-person creative laboratory for mobile games, priva
     </td>
   </tr>
   <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/thamyris"><img src="https://noevilstar.studio/static/project-media/thamyris/thamyris-sunlit-apparition-banner-master-2048x768.webp" width="112" alt="Thamyris preview" /></a></td>
+    <td width="128"><a href="https://noevilstar.studio/projects/thamyris"><img src="https://noevilstar.studio/project-media/thamyris/thamyris-sunlit-apparition-banner-master-2048x768.webp" width="112" alt="Thamyris preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/thamyris">Thamyris</a></strong><br />
       <sub>Venture / In development</sub><br />
