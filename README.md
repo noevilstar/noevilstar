@@ -108,15 +108,6 @@ No Evil Star Studios is a one-person creative laboratory for mobile games, priva
       <sub><a href="https://noevilstar.studio/projects/budgy">Portfolio</a></sub>
     </td>
   </tr>
-  <tr>
-    <td width="128"><a href="https://noevilstar.studio/projects/breaking-bags"><img src="https://noevilstar.studio/project-media/breaking-bags/homepage-hero.webp" width="112" alt="Breaking Bags preview" /></a></td>
-    <td>
-      <strong><a href="https://noevilstar.studio/projects/breaking-bags">Breaking Bags</a></strong><br />
-      <sub>Fun project / Live (private)</sub><br />
-      Four fictional crypto traders turn market signals into rival strategies, risky calls, generated dispatches, and a very noisy character-driven scoreboard.<br /><sub>Tech: Python, React, LunarCrush, Replicate</sub><br />
-      <sub><a href="https://noevilstar.studio/projects/breaking-bags">Portfolio</a></sub>
-    </td>
-  </tr>
 </table>
 
 ## Professional Background
@@ -147,7 +138,6 @@ Alongside the studio work, I operate in a more traditional data-engineering lane
   <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-active-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img alt="HTMX" src="https://img.shields.io/badge/HTMX-active-3366CC?style=for-the-badge&logo=htmx&logoColor=white" />
   <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-active-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-active-20232A?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-active-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-active-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="Pygame" src="https://img.shields.io/badge/Pygame-active-2D8CFF?style=for-the-badge&logo=python&logoColor=white" />
