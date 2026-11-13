@@ -100,6 +100,14 @@ No Evil Star Studios is a one-person creative laboratory for mobile games, priva
     </td>
   </tr>
   <tr>
+    <td width="128"><img src="https://noevilstar.studio/project-media/strange-company/cover.webp" width="112" alt="Strange Company preview" /></td>
+    <td>
+      <strong>Strange Company</strong><br />
+      <sub>Venture / In development</sub><br />
+      A puzzle about finding four connections in a grid of sixteen clues. The first boards are all about music.<br />
+    </td>
+  </tr>
+  <tr>
     <td width="128"><a href="https://noevilstar.studio/projects/budgy"><img src="https://noevilstar.studio/project-media/budgy/og-card.webp" width="112" alt="Budgy preview" /></a></td>
     <td>
       <strong><a href="https://noevilstar.studio/projects/budgy">Budgy</a></strong><br />
